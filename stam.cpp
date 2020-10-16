@@ -7,7 +7,7 @@ int main()
     number employee;
     std::cout << "Hello, World!" << std::endl;
     std::cin >> employee;
-    std::cout << "Number Of Potatoes: " << employee;
+    std::cout << "Number Of animeeee: " << employee;
 
     return 0;
 }
